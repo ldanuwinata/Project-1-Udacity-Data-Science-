@@ -3,9 +3,9 @@ This is the first project of the Data Science Nanodegree program from Udacity.
 CRISP-DM Process (Cross Industry Process for Data Mining):
 1. Business (real-world applications) Understanding - understanding the problem and questions that need to be tackled in the related domain
 - Research questions: 
-[1] Which region is the happiest region in the world?
-[2] Does the economy effects happiness significantly? 
-[3] What factor influence the happiness the most?
+   [1] Which region is the happiest region in the world?
+   [2] Does the economy effects happiness significantly? 
+   [3] What factor influence the happiness the most?
 
 2. Data Understanding
 - Dataset is sourced from World Happiness Report https://www.kaggle.com/unsdsn/world-happiness
@@ -18,7 +18,9 @@ CRISP-DM Process (Cross Industry Process for Data Mining):
    - Economy (GDP per Capita) - The extent to which GDP contributes to the calculation of the Happiness Score.
 
 3. Prepare Data (to be analyzed)
-
+- Gather necessary data to answer the research questions
+- Handle categorical and missing data (if exist)
+- Further methods(if exist)
 
 4. Data Modeling
 
