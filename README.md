@@ -1,13 +1,20 @@
-# DataScience Nanodegree: First_Project
-This is the first project of the Data Science Nanodegree program from Udacity.
-CRISP-DM Process (Cross Industry Process for Data Mining):
-1. **Business (real-world applications) Understanding** - understanding the problem and questions that need to be tackled in the related domain
-- Research questions: 
-   - Which region is the happiest region in the world?
-   - Does the economy effects happiness significantly? 
-   - What factor influence the happiness the most?
+### Installation
+This project uses the libraries provided by Anaconda (Python 3.7.4), e.g. pandas, numpy, matplotlib.pyplot, and seaborn.
 
-2. **Data Understanding**
+### Project Motivation
+The goal of the project is to observe the happiness in different regions in the world and investigate what factors have the strong influence towards the happiness. The workflow of the project follows the 
+CRISP-DM Process (Cross Industry Process for Data Mining). Thus the following research questions are first defined:
+   1. Which region is the happiest region in the world?
+   2. Does the economy effects happiness significantly? 
+   3. What factor influence the happiness the most?
+
+### File Description
+The project includes three files in the repository:
+   - README.md: this file gives the overview of the project
+   - Project1_Script.ipynb: this file includes the python code used in the project
+   - World_Happiness_Report_2015.csv: this file is the dataset used in the project
+   
+### Data Understanding
 - Dataset is sourced from World Happiness Report https://www.kaggle.com/unsdsn/world-happiness
 - (Important) Columns:
    - Country - Name of the country.
@@ -17,13 +24,8 @@ CRISP-DM Process (Cross Industry Process for Data Mining):
    scale of 0 to 10 where 10 is the happiest."
    - Economy (GDP per Capita) - The extent to which GDP contributes to the calculation of the Happiness Score.
 
-3. **Prepare Data** - to be analyzed
-- Gather necessary data to answer the research questions
-- Handle categorical and missing data (if exist)
-- Further methods(if exist)
+### How to Interact With the Project
+The data is manipulated and anlysed using the jupyter notebook (Project1_Script.ipynb). All code works fine. 
 
-4. **Data Modeling**
-
-5. **Evaluate the Results** - to answer the questions of interest
-
-6. **Deploy** - changes based on the results of the analysis
+### Licensing, Authors, Acknowledgements
+I thank Kaggle for prviding the public dataset of World Happiness Report (https://www.kaggle.com/unsdsn/world-happiness).
