@@ -25,7 +25,8 @@ The project includes three files in the repository:
    - Economy (GDP per Capita) - The extent to which GDP contributes to the calculation of the Happiness Score.
 
 ### How to Interact With the Project
-The data is manipulated and anlysed using the jupyter notebook (Project1_Script.ipynb). All code works fine. 
+The data is manipulated and anlysed using the jupyter notebook (Project1_Script.ipynb). All code works fine.
+Please find the article published in medium at https://medium.com/@l.danuwinata/what-determines-happiness-towards-data-science-13aa87595345
 
 ### Licensing, Authors, Acknowledgements
 I thank Kaggle for prviding the public dataset of World Happiness Report (https://www.kaggle.com/unsdsn/world-happiness).
